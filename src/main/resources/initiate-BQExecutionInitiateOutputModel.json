@@ -1,0 +1,30 @@
+{
+  "executionInitiateActionReference" : "EIAR753060",
+  "executionInstanceStatus" : "executionInstanceStatus",
+  "executionInstanceReference" : "EIR728239",
+  "executionInitiateActionRecord" : {},
+  "executionInstanceRecord" : {
+    "customerSurveyExecutionWorkTaskType" : "customerSurveyExecutionWorkTaskType",
+    "customerSurveyExecutionWorkTaskResult" : "customerSurveyExecutionWorkTaskResult",
+    "customerSurveyExecutionWorkTaskWorkProducts" : "customerSurveyExecutionWorkTaskWorkProducts",
+    "customerSurveyExecutionWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "733944",
+    "customerSurveyExecutionWorkTaskDescription" : "customerSurveyExecutionWorkTaskDescription"
+  },
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "799589",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyConsumablesInventory" : {
+      "customerSurveyConsumableType" : "customerSurveyConsumableType",
+      "customerSurveyConsumableHolding" : "customerSurveyConsumableHolding"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureResult" : "customerSurveyProcedureResult",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  }
+}

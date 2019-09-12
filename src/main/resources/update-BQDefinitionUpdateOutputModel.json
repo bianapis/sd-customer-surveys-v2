@@ -1,0 +1,22 @@
+{
+  "definitionUpdateActionTaskReference" : "DUATR735736",
+  "definitionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "733879",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  },
+  "definitionInstanceRecord" : {
+    "customerSurveyDesignWorkTaskType" : "customerSurveyDesignWorkTaskType",
+    "customerSurveyDesignWorkTaskWorkProducts" : "customerSurveyDesignWorkTaskWorkProducts",
+    "customerSurveyDesignWorkTaskDescription" : "customerSurveyDesignWorkTaskDescription",
+    "customerSurveyDesignWorkTaskResult" : "customerSurveyDesignWorkTaskResult"
+  }
+}

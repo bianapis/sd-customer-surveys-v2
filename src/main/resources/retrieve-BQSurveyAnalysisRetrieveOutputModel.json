@@ -1,0 +1,20 @@
+{
+  "surveyAnalysisRetrieveActionResponse" : "surveyAnalysisRetrieveActionResponse",
+  "surveyAnalysisInstanceRecord" : {
+    "customerSurveyProcedureSurveyAnalysisResult" : "customerSurveyProcedureSurveyAnalysisResult"
+  },
+  "surveyAnalysisInstanceAnalysis" : {
+    "surveyAnalysisInstanceAnalysisReport" : {},
+    "surveyAnalysisInstanceAnalysisReportType" : "surveyAnalysisInstanceAnalysisReportType",
+    "surveyAnalysisInstanceAnalysisRecord" : {},
+    "surveyAnalysisInstanceAnalysisParameters" : "surveyAnalysisInstanceAnalysisParameters"
+  },
+  "surveyAnalysisRetrieveActionTaskReference" : "SARATR744521",
+  "surveyAnalysisRetrieveActionTaskRecord" : {},
+  "surveyAnalysisInstanceReport" : {
+    "surveyAnalysisInstanceReportRecord" : {},
+    "surveyAnalysisInstanceReport" : {},
+    "surveyAnalysisInstanceReportType" : "surveyAnalysisInstanceReportType",
+    "surveyAnalysisInstanceReportParameters" : "surveyAnalysisInstanceReportParameters"
+  }
+}

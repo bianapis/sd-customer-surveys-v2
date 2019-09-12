@@ -1,0 +1,17 @@
+{
+  "reviewerSelectionRetrieveActionResponse" : "reviewerSelectionRetrieveActionResponse",
+  "reviewerSelectionInstanceReport" : {
+    "reviewerSelectionInstanceReport" : {},
+    "reviewerSelectionInstanceReportRecord" : {},
+    "reviewerSelectionInstanceReportType" : "reviewerSelectionInstanceReportType",
+    "reviewerSelectionInstanceReportParameters" : "reviewerSelectionInstanceReportParameters"
+  },
+  "reviewerSelectionRetrieveActionTaskReference" : "RSRATR788602",
+  "reviewerSelectionRetrieveActionTaskRecord" : {},
+  "reviewerSelectionInstanceAnalysis" : {
+    "reviewerSelectionInstanceAnalysisReport" : {},
+    "reviewerSelectionInstanceAnalysisParameters" : "reviewerSelectionInstanceAnalysisParameters",
+    "reviewerSelectionInstanceAnalysisReportType" : "reviewerSelectionInstanceAnalysisReportType",
+    "reviewerSelectionInstanceAnalysisRecord" : {}
+  }
+}

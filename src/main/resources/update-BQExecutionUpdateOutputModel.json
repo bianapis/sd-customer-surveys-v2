@@ -1,0 +1,13 @@
+{
+  "executionUpdateActionTaskRecord" : {},
+  "executionUpdateActionTaskReference" : "EUATR707054",
+  "updateResponseRecord" : {},
+  "executionInstanceRecord" : {
+    "customerSurveyExecutionWorkTaskType" : "customerSurveyExecutionWorkTaskType",
+    "customerSurveyExecutionWorkTaskResult" : "customerSurveyExecutionWorkTaskResult",
+    "customerSurveyExecutionWorkTaskWorkProducts" : "customerSurveyExecutionWorkTaskWorkProducts",
+    "customerSurveyExecutionWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "793146",
+    "customerSurveyExecutionWorkTaskDescription" : "customerSurveyExecutionWorkTaskDescription"
+  }
+}

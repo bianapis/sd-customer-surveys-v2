@@ -1,0 +1,34 @@
+{
+  "definitionInstanceReport" : {
+    "definitionInstanceReportParameters" : "definitionInstanceReportParameters",
+    "definitionInstanceReport" : {},
+    "definitionInstanceReportRecord" : {},
+    "definitionInstanceReportType" : "definitionInstanceReportType"
+  },
+  "definitionRetrieveActionTaskReference" : "DRATR762046",
+  "definitionRetrieveActionResponse" : "definitionRetrieveActionResponse",
+  "definitionRetrieveActionTaskRecord" : {},
+  "definitionInstanceAnalysis" : {
+    "definitionInstanceAnalysisReport" : {},
+    "definitionInstanceAnalysisReportType" : "definitionInstanceAnalysisReportType",
+    "definitionInstanceAnalysisParameters" : "definitionInstanceAnalysisParameters",
+    "definitionInstanceAnalysisRecord" : {}
+  },
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "711907",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  },
+  "definitionInstanceRecord" : {
+    "customerSurveyDesignWorkTaskType" : "customerSurveyDesignWorkTaskType",
+    "customerSurveyDesignWorkTaskWorkProducts" : "customerSurveyDesignWorkTaskWorkProducts",
+    "customerSurveyDesignWorkTaskDescription" : "customerSurveyDesignWorkTaskDescription",
+    "customerSurveyDesignWorkTaskResult" : "customerSurveyDesignWorkTaskResult"
+  }
+}

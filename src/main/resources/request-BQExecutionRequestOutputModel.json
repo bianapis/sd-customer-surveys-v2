@@ -1,0 +1,14 @@
+{
+  "executionRequestRecordReference" : "ERRR780323",
+  "executionRequestActionTaskRecord" : {},
+  "executionInstanceRecord" : {
+    "customerSurveyExecutionWorkTaskType" : "customerSurveyExecutionWorkTaskType",
+    "customerSurveyExecutionWorkTaskResult" : "customerSurveyExecutionWorkTaskResult",
+    "customerSurveyExecutionWorkTaskWorkProducts" : "customerSurveyExecutionWorkTaskWorkProducts",
+    "customerSurveyExecutionWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "702629",
+    "customerSurveyExecutionWorkTaskDescription" : "customerSurveyExecutionWorkTaskDescription"
+  },
+  "executionRequestActionTaskReference" : "ERATR734526",
+  "requestResponseRecord" : {}
+}

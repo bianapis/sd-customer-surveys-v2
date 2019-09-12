@@ -1,0 +1,21 @@
+{
+  "customerSurveyProcedureUpdateActionTaskReference" : "CSPUATR748709",
+  "customerSurveyProcedureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "708804",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyConsumablesInventory" : {
+      "customerSurveyConsumableType" : "customerSurveyConsumableType",
+      "customerSurveyConsumableHolding" : "customerSurveyConsumableHolding"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureResult" : "customerSurveyProcedureResult",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  }
+}

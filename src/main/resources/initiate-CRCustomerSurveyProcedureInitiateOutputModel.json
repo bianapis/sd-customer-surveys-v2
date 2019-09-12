@@ -1,0 +1,22 @@
+{
+  "customerSurveyProcedureInstanceStatus" : "customerSurveyProcedureInstanceStatus",
+  "customerSurveyProcedureInitiateActionReference" : "CSPIAR708024",
+  "customerSurveyProcedureInitiateActionRecord" : {},
+  "customerSurveyProcedureInstanceReference" : "CSPIR791343",
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "734905",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyConsumablesInventory" : {
+      "customerSurveyConsumableType" : "customerSurveyConsumableType",
+      "customerSurveyConsumableHolding" : "customerSurveyConsumableHolding"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureResult" : "customerSurveyProcedureResult",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  }
+}

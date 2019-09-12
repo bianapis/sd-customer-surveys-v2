@@ -1,0 +1,25 @@
+{
+  "surveyAnalysisInstanceRecord" : {
+    "customerSurveyProcedureSurveyAnalysisResult" : "customerSurveyProcedureSurveyAnalysisResult"
+  },
+  "surveyAnalysisInitiateActionRecord" : {},
+  "surveyAnalysisInstanceStatus" : "surveyAnalysisInstanceStatus",
+  "surveyAnalysisInstanceReference" : "SAIR793194",
+  "surveyAnalysisInitiateActionReference" : "SAIAR747114",
+  "customerSurveyProcedureInstanceRecord" : {
+    "customerSurveyDescription" : "customerSurveyDescription",
+    "employeeBusinessUnitReference" : "745345",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerSurveyConsumablesInventory" : {
+      "customerSurveyConsumableType" : "customerSurveyConsumableType",
+      "customerSurveyConsumableHolding" : "customerSurveyConsumableHolding"
+    },
+    "customerSurveyProcedureVersionNumber" : "customerSurveyProcedureVersionNumber",
+    "customerSurveyType" : "customerSurveyType",
+    "customerSurveyProcedureResult" : "customerSurveyProcedureResult",
+    "customerSurveyProcedureSetup" : "customerSurveyProcedureSetup",
+    "customerSurveySchedule" : "customerSurveySchedule"
+  }
+}
